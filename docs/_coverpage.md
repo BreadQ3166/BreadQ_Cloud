@@ -1,9 +1,10 @@
 <!-- _coverpage.md -->
 
-# 小枫社长de技术文档
-> 这是一份计算机技术学习资料
+# 面包de个人文档
+> 这是一份面包的学习总结
 
-- Copyright © 2023 小枫社长 All Rights Reserved.
+- Copyright © 2024 8 13 面包的起源 All Rights Reserved.
 
-[小枫社长](https://space.bilibili.com/1100962821)
 [开始阅读](README.md)
+
+![logo_2](./_media/logo_2.jpg)

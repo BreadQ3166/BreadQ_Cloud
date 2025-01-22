@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "豌豆射手.moc3",
+		"Textures": [
+			"豌豆射手.2048/texture_00.png"
+		],
+		"DisplayInfo": "豌豆射手.cdi3.json"
+	}
+}
